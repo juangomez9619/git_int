@@ -4,6 +4,7 @@ apples
 bananas
 yogurt
 milk
+wheat bread
 bread
 cereal
 eggs
@@ -18,3 +19,6 @@ ice cream
 sugar
 flour
 butter
+coffee
+tomatoes
+pears
