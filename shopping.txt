@@ -7,7 +7,7 @@ milk
 wheat bread
 bread
 cereal
-eggs
+12 eggs
 bacon
 orange juice
 grapes
